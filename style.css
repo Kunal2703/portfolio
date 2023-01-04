@@ -698,6 +698,7 @@ color:var(--primary-text-color);}
     color:var(--secondary-text-color);
 }
 
+/*
 .footer{
     padding:1em 1rem;
     text-align: center;
@@ -711,6 +712,7 @@ color:var(--primary-text-color);}
 .footer span{
     background: var(--secondary-bg-color);
 }
+*/
 
 #theme-toggler{
     position: fixed;
