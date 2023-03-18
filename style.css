@@ -466,6 +466,8 @@ color:var(--primary-text-color);}
     clip-path: circle(100%);
 }
 
+
+*/
 .portfolio .button-container{
     display: flex;
     align-items: center;
@@ -493,7 +495,7 @@ color:var(--primary-text-color);}
     border-radius: .5rem;
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
     overflow: hidden;
-    height: 25rem;
+    height: 30rem;
     position: relative;
     border:1.5rem solid var(--primary-bg-color);
     cursor: pointer;
@@ -590,6 +592,8 @@ color:var(--primary-text-color);}
     font-size: 1.5rem;
 }
 
+
+/*
 .contact .row{
     display: flex;
     justify-content: center;
@@ -657,7 +661,22 @@ color:var(--primary-text-color);}
 .contact .row form .btn{
     cursor: pointer;
 }
+
+
 */
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .contact .box-container{
     display: flex;
@@ -698,21 +717,12 @@ color:var(--primary-text-color);}
     color:var(--secondary-text-color);
 }
 
-/*
 .footer{
-    padding:1em 1rem;
-    text-align: center;
+    padding:0 1rem;
     font-size: 2rem;
     color:var(--primary-text-color);
-    background: var(--secondary-bg-color);
-    margin-top: 1rem;
     text-transform: none;
 }
-
-.footer span{
-    background: var(--secondary-bg-color);
-}
-*/
 
 #theme-toggler{
     position: fixed;
